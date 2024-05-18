@@ -1,0 +1,9 @@
+.bg-home {
+    background-color: #fff;
+    color: #000;
+}
+
+.bg-img {
+    background-image: url('../assets/bgHome.jpg');
+    background-size: 100%;
+}
